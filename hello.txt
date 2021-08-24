@@ -8,4 +8,4 @@ Hello Ronghao
 Hello Ronghao
 Hello Ronghao
 Hello Ronghao master test
-Hello Ronghao
+Hello Ronghao hot-fix test
